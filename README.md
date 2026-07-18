@@ -72,11 +72,6 @@ fun_fact: I like turning small ideas into working prototypes over a weekend
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DidulaGamage-lk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DidulaGamage-lk&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DidulaGamage-lk&theme=tokyonight&hide_border=true" />
 
 <br>
