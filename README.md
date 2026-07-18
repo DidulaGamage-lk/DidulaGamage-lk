@@ -18,10 +18,8 @@
 
 <br>
 
-## 🖥️ Hacker Terminal
-
 <div align="center">
-  <img src="./assets/hacker-profile.svg" alt="Hacker Terminal Profile" width="900"/>
+  <img src="hacker-profile.svg" alt="Hacker Terminal Profile" width="900"/>
 </div>
 
 <br>
