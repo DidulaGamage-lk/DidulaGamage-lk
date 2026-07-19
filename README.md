@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Didula+Gamage;Developer+%7C+Designer+%7C+Ethical+Hacker;Building+things+for+the+web+%F0%9F%8C%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Didula+Gamage;Developer+%7C+%7C+Ethical+Hacker;Building+things+for+the+web+%F0%9F%8C%90" alt="Typing SVG" />
 
 <p>
 💻 Developer &nbsp;•&nbsp; 🎨 Graphic &amp; UI Designer &nbsp;•&nbsp; 🛡️ Aspiring Ethical Hacker &nbsp;•&nbsp; ☁️ Always building something new
