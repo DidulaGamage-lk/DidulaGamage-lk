@@ -13,8 +13,7 @@
 </p>
 
 📍 Sri Lanka
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
+
 </div>
 
 <br>
