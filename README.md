@@ -14,6 +14,11 @@
 
 📍 Sri Lanka
 
+<!-- Light Mode Badge -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square#gh-light-mode-only)
+
+<!-- Dark Mode Badge -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square#gh-dark-mode-only)
 </div>
 
 <br>
