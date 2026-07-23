@@ -80,7 +80,7 @@ fun_fact: I like turning small ideas into working prototypes over a weekend
 
 </div>
 
-> Cards above are live — they refresh automatically and always show current stats, so no numbers are hardcoded here.
+> Cards above are live they refresh automatically and always show current stats, so no numbers are hardcoded here.
 
 <br>
 
