@@ -76,8 +76,6 @@ fun_fact: I like turning small ideas into working prototypes over a weekend
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DidulaGamage-lk&theme=tokyo-night&hide_border=true" />
-
 </div>
 
 > Cards above are live they refresh automatically and always show current stats, so no numbers are hardcoded here.
