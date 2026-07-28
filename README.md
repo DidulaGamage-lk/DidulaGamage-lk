@@ -101,17 +101,12 @@ philosophy: ship small, working things — fast
 
 | Project | Description | Stack |
 |---|---|---|
-| 🛡️ **websec-check-pro** | Modular passive web-security scanner CLI with a crawler and multi-format reporting | `Shell` `JS` |
-| 📚 **OWASP Top 10 Guide** | Educational repo breaking down the OWASP Top 10 for learners | `Markdown` |
-| ✂️ **URL Shortener** | Self-hosted, Docker-ready URL shortener service | `Docker` `PHP` |
-| ✋ **Doctor Strange Gesture Controller** | Browser-based hand-gesture controller using MediaPipe & Web Audio API | `JS` |
-| 🚀 **Nebula Siege** | Wave-based HTML5 Canvas space shooter with synthesized audio & mobile touch support | `HTML5` `JS` |
-| 🖼️ [Malcolm-Lismore-Photography](https://github.com/DidulaGamage-lk/Malcolm-Lismore-Photography) | Responsive photography portfolio with galleries | `HTML` `CSS` `JS` `PHP` |
-| ✋ [Air-Drawing-Dashboard](https://github.com/DidulaGamage-lk/Air-Drawing-Dashboard) | Dashboard for drawing using hand gestures | `CSS` `JS` |
-| 🕵️ [Browser Activity Logger](https://github.com/DidulaGamage-lk/investigator-browser-activity-logger) | Chrome extension for logging browser activity with passcode protection | `JavaScript` |
-| 🔐 [Password Strength Checker](https://github.com/DidulaGamage-lk/password-strength-checker) | Entropy-based password strength checker & generator | `HTML` `CSS` `JS` |
-| 🌐 [Sx9Net-Info](https://github.com/DidulaGamage-lk/Sx9Net-Info) | Network scanner for gathering net details, built for Kali users | `Shell` |
-| 🎨 [MyPortfolio.info](https://github.com/DidulaGamage-lk/MyPortfolio.info) | Modern personal portfolio site | `CSS` |
+| [🖼️ Malcolm-Lismore-Photography](https://github.com/DidulaGamage-lk/Malcolm-Lismore-Photography) | Responsive photography portfolio website with galleries | `HTML` `CSS` `JS` `PHP` |
+| [✋ Air-Drawing-Dashboard](https://github.com/DidulaGamage-lk/Air-Drawing-Dashboard) | Web-based dashboard for drawing using hand gestures | `CSS` `JS` |
+| [🕵️ investigator-browser-activity-logger](https://github.com/DidulaGamage-lk/investigator-browser-activity-logger) | Chrome extension for logging browser activity with passcode protection | `JavaScript` |
+| [🔐 password-strength-checker](https://github.com/DidulaGamage-lk/password-strength-checker) | Entropy-based password strength checker & generator | `HTML` `CSS` `JS` |
+| [🌐 Sx9Net-Info](https://github.com/DidulaGamage-lk/Sx9Net-Info) | Network scanner for gathering net details, built for Kali users | `Shell` |
+| [🎨 MyPortfolio.info](https://github.com/DidulaGamage-lk/MyPortfolio.info) | My modern personal portfolio site | `CSS` |
 
 </div>
 
